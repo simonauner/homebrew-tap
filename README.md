@@ -1,12 +1,9 @@
 # Simon Aunér's Homebrew tap
 
-This tap will distribute [Lotsen](https://github.com/simonauner/lotsen), a browser
+This tap distributes [Lotsen](https://github.com/simonauner/lotsen), a browser
 selector for macOS 14 and later.
 
-The first binary release is being prepared. Until it is
-published, use the source installation in Lotsen's README.
-
-After the first binary release, install with:
+Install with:
 
 ```sh
 brew install --cask simonauner/tap/lotsen
