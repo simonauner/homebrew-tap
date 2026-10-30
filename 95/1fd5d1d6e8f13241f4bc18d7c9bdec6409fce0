@@ -1,0 +1,19 @@
+README.md
+  s_e05125571f7dc0::t_25feba37e1fe96 6,16,23-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "951fd5d1d6e8f13241f4bc18d7c9bdec6409fce0",
+  "prompts": {},
+  "sessions": {
+    "s_e05125571f7dc0": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18b3e-4d45-78c0-b024-cdf56b6e3e8a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Simon Aunér <simonauner@gmail.com>"
+    }
+  }
+}
